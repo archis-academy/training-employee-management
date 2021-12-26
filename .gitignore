@@ -1,0 +1,11 @@
+api_employee_management/node_modules
+
+client_employee_management/node_modules
+client_employee_management/build
+client_employee_management/npm-debug.log*
+client_employee_management/yarn-debug.log*
+client_employee_management/yarn-error.log*
+client_employee_management/.pnp
+client_employee_management/.pnp.js
+client_employee_management/coverage
+client_employee_management/.DS_Store
